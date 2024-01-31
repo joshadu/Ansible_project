@@ -9,5 +9,6 @@ In this project, we created a production environment that consists of four Ubunt
 
 - Terraform: Infrastructure as Code for VM deployment on CSC cPouta
 - Ansible: nginx HTTP load balancer configuration and webserver setup
+- Python: Ansible virtual environment setup
 - Git: Version control
 
